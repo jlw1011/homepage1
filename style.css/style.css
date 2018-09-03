@@ -1,0 +1,51 @@
+body{
+    font-family: courier new, monospace;
+}
+
+p{
+  font-family: courier new, monospace;
+  font-size: 18px;
+}
+nav{
+  display: block;
+  padding: 30px 20px;
+  font-family: courier;
+  justify-content: flex-end;
+}
+
+.jobdescription{
+  margin-left: 30px;
+}
+
+.jobtitle{
+  font-size: 26px;
+}
+
+div{
+  width: auto;
+  padding: 25px;
+  margin: 50px;
+  background-color: #F3917C;
+  align-content: center;
+  border-top: 2px solid #638C9E;
+  border-bottom: 2px solid #638C9E;
+  color: #364D57;
+}
+
+h1{
+  font-size: 100px;
+  color: #364D57;
+  border-top: 2px solid #638C9E;
+  border-bottom: 2px solid #638C9E;
+  display: flex;
+  align-content: center;
+  }
+.certs{
+  display: flex;
+  align-content: center;
+}
+
+.footerleft .footerright{
+  display: flex;
+  align-content: center;
+}
